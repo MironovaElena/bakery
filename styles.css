@@ -69,12 +69,39 @@ padding: 50px;
     .nav{
         display: flex;
     }
+    .heading{
+        top: 113px;
+        font-size: 21px;
+    }
+    .price{
+        top: 200px;
+        font-size: 14px;
+        
+    }
+    .btn{
+        top:254px;
+        padding: 9px;
+    }
+    
+    
+    }
 
-}
+
 @media all and (max-width:500px){
     .nav{
         display: flex;
     }
-  
-
+    .heading{
+        top: 113px;
+        font-size: 21px;
+    }
+    .price{
+        top: 200px;
+        font-size: 14px;
+        
+    }
+    .btn{
+        top:254px;
+        padding: 9px;
+    }
 }
